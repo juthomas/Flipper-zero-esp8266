@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "Flipper-esp8266")(type "KiCad")(uri "${KIPRJMOD}/Flipper-esp8266.pretty")(options "")(descr ""))
+)
